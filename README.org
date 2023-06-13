@@ -1,0 +1,10 @@
+* monkeylib-text-output
+
+Framework for generating simply formatted text output.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/gigamonkey/monkeylib-text-output.git   |
+| commit  | 5451556  |
+| systems | monkeylib-text-output |
+|---------+-------------------------------------------|
+
