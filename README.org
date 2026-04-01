@@ -7,3 +7,4 @@ Framework for generating simply formatted text output.
 | commit  | 5451556                                                     |
 | systems | monkeylib-text-output                                       |
 |---------+-------------------------------------------------------------|
+ 
